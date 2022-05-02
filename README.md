@@ -11,3 +11,6 @@ reference to [DARP](https://github.com/alice-st/DARP)
 4. Double left-clicks to select initial positions for robots, and double right-clicks to delete.
 5. Slide the upper two trackbars to process the map.
 6. Slide the last trackbar to generate paths.
+
+# Demo
+![demo](https://raw.github.com/jimazeyu/occupancy_map_cpp/edit/main/demonstration.png)
