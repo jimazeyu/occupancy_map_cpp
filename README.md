@@ -13,4 +13,4 @@ reference to [DARP](https://github.com/alice-st/DARP)
 6. Slide the last trackbar to generate paths.
 
 # Demo
-<img src="https://raw.github.com/jimazeyu/occupancy_map_cpp/main/demonstration.png" alt="demo" style="zoom:30%;" />
+<img src="https://raw.github.com/jimazeyu/occupancy_map_cpp/main/demonstration.png" alt="demo" style="zoom:10%;" />
